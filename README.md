@@ -3,7 +3,7 @@
 <!--
 **dakkenkd/dakkenkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+[![Rating](https://badgen.org/img/atcoder/dakkenkd/rating/algorithm?style=for-the-badge)](https://atcoder.jp/users/dakkenkd?contestType=algo)
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/dakkenkd/count.svg" />
