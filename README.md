@@ -12,6 +12,6 @@
 - 🔭 I’m currently working on AtCoder
   - ID: dakkenkd
   - Rating: <span style="color: cyan; ">1233</span>
-- 🌱 I’m currently learning Natural Language Processing
+- 🌱 I’m currently learning Cryptography
 
 [![](https://raw.githubusercontent.com/dakkenkd/dakkenkd/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
