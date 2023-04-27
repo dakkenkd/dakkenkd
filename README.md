@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on AtCoder
   - ID: dakkenkd
-  - Rating: <font color="green">1233</font>
+  - Rating: <font color="#00FFFF">1233</font>
 - 🌱 I’m currently learning Cryptography
 
 [![](https://raw.githubusercontent.com/dakkenkd/dakkenkd/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
