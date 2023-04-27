@@ -10,6 +10,7 @@
 </p>
 
 - 🔭 I’m currently working on AtCoder
+  - Rating: <span style="color: cyan; ">1233</span>
 - 🌱 I’m currently learning Natural Language Processing
 
 [![](https://raw.githubusercontent.com/dakkenkd/dakkenkd/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
