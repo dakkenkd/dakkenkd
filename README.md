@@ -10,6 +10,7 @@
 </p>
 
 - 🔭 I’m currently working on AtCoder
+  - ID: dakkenkd
   - Rating: <span style="color: cyan; ">1233</span>
 - 🌱 I’m currently learning Natural Language Processing
 
